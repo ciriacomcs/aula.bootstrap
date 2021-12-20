@@ -1,0 +1,30 @@
+body {
+    font: 20px Trebuchet MS, sans-serif;
+}
+
+.navbar {
+    background-color: #ffc000;
+}
+
+.quem-somos {
+    background-color: #e6231c;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.simbolos {
+    background-color: white;
+}
+
+.projetos {
+    background-color: #064d8d;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+}
